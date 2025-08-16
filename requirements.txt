@@ -1,6 +1,7 @@
-moviepy
-gtts
-pillow
 fastapi
 uvicorn
 requests
+moviepy
+gTTS
+pillow
+pydantic
